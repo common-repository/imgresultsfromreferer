@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: imgResultsFromReferer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-20 23:27+0100\n"
+"PO-Revision-Date: 2015-11-20 23:28+0100\n"
+"Last-Translator: Matthias Greiling <matthias@greiling.de>\n"
+"Language-Team: Matthias\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../imgResultsFromReferer.php:29
+#: ../imgResultsFromReferer.php:37
+#: ../imgResultsFromReferer.php:45
+msgid "aboutTitle"
+msgstr "Image search results"
+
+#: ../imgResultsFromReferer.php:30
+#: ../imgResultsFromReferer.php:93
+#: ../imgResultsFromReferer.php:99
+msgid "imgResultsFromReferer"
+msgstr "Google Image results"
+
+#: ../imgResultsFromReferer.php:38
+#: ../imgResultsFromReferer.php:262
+msgid "rankingTotal"
+msgstr "Total"
+
+#: ../imgResultsFromReferer.php:46
+#: ../imgResultsFromReferer.php:274
+msgid "rankingMonthly"
+msgstr "Monthly"
+
+#: ../imgResultsFromReferer.php:99
+#: ../imgResultsFromReferer.php:159
+msgid "setup"
+msgstr "Setup"
+
+#: ../imgResultsFromReferer.php:106
+msgid "thumbnailSize"
+msgstr "Thumbnail size*"
+
+#: ../imgResultsFromReferer.php:110
+msgid "amountLastClicks"
+msgstr "Amount of \"last clicks\"*"
+
+#: ../imgResultsFromReferer.php:114
+msgid "amountMonthlyClicks"
+msgstr "Amount of \"monthly clicks\"*"
+
+#: ../imgResultsFromReferer.php:118
+msgid "tableName"
+msgstr "Table Name*"
+
+#: ../imgResultsFromReferer.php:122
+msgid "tableCol"
+msgstr "Database table column with HTTP_REFERER data*"
+
+#: ../imgResultsFromReferer.php:126
+msgid "tableColTime"
+msgstr "Database table column with unix timestamp / or date*"
+
+#: ../imgResultsFromReferer.php:130
+msgid "tableGroupBy"
+msgstr "Database teable column to GROUP BY"
+
+#: ../imgResultsFromReferer.php:134
+msgid "string2kill"
+msgstr "Delete this string like the blog-base-URL, several strings comma separated"
+
+#: ../imgResultsFromReferer.php:138
+msgid "static"
+msgstr "Static, cookie-free domain"
+
+#: ../imgResultsFromReferer.php:172
+msgid "donate"
+msgstr "donate via paypal"
+
+#: ../imgResultsFromReferer.php:189
+msgid "lastClicks"
+msgstr "Last clicks"
+
+#: ../imgResultsFromReferer.php:224
+msgid "something fishy"
+msgstr "Referrered data is fishy"
+
+#: ../imgResultsFromReferer.php:231
+msgid "setupFirst"
+msgstr "Setup first - you have to have installed a statistic tool like 'StatPress'."
+
+#: ../imgResultsFromReferer.php:262
+msgid "totalCount"
+msgstr "Total "
+
+#: ../imgResultsFromReferer.php:262
+msgid "totalPics"
+msgstr " different pictures"
+
+#: ../imgResultsFromReferer.php:326
+msgid "monthTotal"
+msgstr "total "
+
+#: ../imgResultsFromReferer.php:326
+msgid "sepNumbers"
+msgstr " - "
+
+#: ../imgResultsFromReferer.php:326
+msgid "monthDifferent"
+msgstr "different pictures"
+
+#: ../imgResultsFromReferer.php:460
+msgid "foreignPic"
+msgstr "Not from your source"
+
+#~ msgid "searchTerm"
+#~ msgstr "search term"
+
+#~ msgid "PicsAtNewStatPress"
+#~ msgstr "Results of image search in HTTP_REFERER"

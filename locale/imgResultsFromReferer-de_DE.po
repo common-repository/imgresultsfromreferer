@@ -1,0 +1,133 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: imgResultsFromReferer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-20 23:27+0100\n"
+"PO-Revision-Date: 2015-11-20 23:27+0100\n"
+"Last-Translator: Matthias Greiling <matthias@greiling.de>\n"
+"Language-Team: Matthias Greiling <greiling+lang@uni-wuppertal.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de_DE\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../imgResultsFromReferer.php:29
+#: ../imgResultsFromReferer.php:37
+#: ../imgResultsFromReferer.php:45
+msgid "aboutTitle"
+msgstr "Erfolge Googles Bildersuche "
+
+#: ../imgResultsFromReferer.php:30
+#: ../imgResultsFromReferer.php:93
+#: ../imgResultsFromReferer.php:99
+msgid "imgResultsFromReferer"
+msgstr "Ergoogelte Bilder"
+
+#: ../imgResultsFromReferer.php:38
+#: ../imgResultsFromReferer.php:262
+msgid "rankingTotal"
+msgstr "Alle Aufrufe"
+
+#: ../imgResultsFromReferer.php:46
+#: ../imgResultsFromReferer.php:274
+msgid "rankingMonthly"
+msgstr "Monatliche Aufrufe"
+
+#: ../imgResultsFromReferer.php:99
+#: ../imgResultsFromReferer.php:159
+msgid "setup"
+msgstr "Einstellungen"
+
+#: ../imgResultsFromReferer.php:106
+msgid "thumbnailSize"
+msgstr "Vorschaugröße*"
+
+#: ../imgResultsFromReferer.php:110
+msgid "amountLastClicks"
+msgstr "Anzahl letzter Bilder*"
+
+#: ../imgResultsFromReferer.php:114
+msgid "amountMonthlyClicks"
+msgstr "Anzahl der monatlichen Bilder*"
+
+#: ../imgResultsFromReferer.php:118
+msgid "tableName"
+msgstr "Statistik-Tabelle*"
+
+#: ../imgResultsFromReferer.php:122
+msgid "tableCol"
+msgstr "Spaltenname mit Referrer-Information*"
+
+#: ../imgResultsFromReferer.php:126
+msgid "tableColTime"
+msgstr "Spaltenname für einen Unix-Timestamp*"
+
+#: ../imgResultsFromReferer.php:130
+msgid "tableGroupBy"
+msgstr "Spaltennamen für GROUP BY"
+
+#: ../imgResultsFromReferer.php:134
+msgid "string2kill"
+msgstr "Zusätzlich zu entfernende Zeichenkette, mehrere Zeichenketten mit Komma trennen"
+
+#: ../imgResultsFromReferer.php:138
+msgid "static"
+msgstr "Verwendung von cookie-freier Domain (static)"
+
+#: ../imgResultsFromReferer.php:172
+msgid "donate"
+msgstr "Spenden über PayPal"
+
+#: ../imgResultsFromReferer.php:189
+msgid "lastClicks"
+msgstr "Letzte Aufrufe"
+
+#: ../imgResultsFromReferer.php:224
+msgid "something fishy"
+msgstr "Bitte zur Überprüfung einschicken:"
+
+#: ../imgResultsFromReferer.php:231
+msgid "setupFirst"
+msgstr "Um in den Genuß der Ausgabe zu kommen, muss das Setup korrekt ausgeführt worden sein."
+
+#: ../imgResultsFromReferer.php:262
+msgid "totalCount"
+msgstr "Insgesamt "
+
+#: ../imgResultsFromReferer.php:262
+msgid "totalPics"
+msgstr "  unterschiedlichen Bildern"
+
+#: ../imgResultsFromReferer.php:326
+msgid "monthTotal"
+msgstr "insgesamt "
+
+#: ../imgResultsFromReferer.php:326
+msgid "sepNumbers"
+msgstr " / "
+
+#: ../imgResultsFromReferer.php:326
+msgid "monthDifferent"
+msgstr " unterschiedliche Bilder"
+
+#: ../imgResultsFromReferer.php:460
+msgid "foreignPic"
+msgstr "Kein eigenes Bild"
+
+#~ msgid "PicsAtNewStatPress"
+#~ msgstr "Ergoogelte Bilder"
+
+#~ msgid "searchTerm"
+#~ msgstr "Suchbegriff"
+
+#~ msgid "googleRanking"
+#~ msgstr "Ranking bei Google"
+
+#~ msgid "firstInstall"
+#~ msgstr "Sie müssen NewStatPress installiert haben"
